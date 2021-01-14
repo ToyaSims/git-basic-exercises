@@ -1,0 +1,1000 @@
+  433  cay requirements.txt 
+  434  cat requirements.txt 
+  435  deactivate
+  436  pip list
+  437  ls
+  438  clear
+  439  rm - rf project1_env/
+  440  ls
+  441  rm -rf project1_env/
+  442  ls
+  443  clear
+  444  ls
+  445  virtualenv - /usr/bin/python3.7 py37_env
+  446  virtualenv -p /usr/bin/python3.7 py37_env
+  447  virtualenv -p /usr/bin/python2.6 py26_env
+  448  ls
+  449  virtualenv -p /usr/bin/python2.6 py26_env
+  450  pip
+  451  pip list
+  452  virtualenv -p /usr/bin/python2.8 py28_env
+  453  virtualenv --python /usr/bin/python2.8 py28_env
+  454  virtualenv --p /usr/bin/python2.8 py28_env
+  455  virtualenv -p /usr/bin/python2.8 py28_env
+  456  clear
+  457  virtualenv -p /usr/bin/python2.8 py28_env
+  458  virtualenv -p /usr/bin/python2.6 py26_env
+  459  virtualenv -p /usr/bin/python py_env
+  460  ls
+  461  soruce py_env/bin/activate
+  462  clear
+  463  ls
+  464  source py_env/bin/activate
+  465  clear
+  466  which python
+  467  python --version
+  468  pip install -r requirements.txt
+  469  pip list
+  470  deactivate
+  471  pip install python
+  472  pip install upgarde python
+  473  pip install upgrade python
+  474  pip update python
+  475  pip upgrade python
+  476  sudo apt-get install python 3.6.1
+  477  cd ..
+  478  sudo apt-get install python 3.6.1
+  479  sudo apt-get install python 3.7
+  480  clear
+  481  ls
+  482  source py_env/bin/activate
+  483  pip freeze
+  484  deactive
+  485  deactivate
+  486  virtualenv -p /usr/bin/python2.6 py26_env
+  487  virtualenv -p /usr/bin/python3  py26_env
+  488  virtualenv -p /usr/bin/python  py26_env
+  489  ls
+  490  rm -rf py26_26
+  491  ls
+  492  source py_env/bin/activate
+  493  ls
+  494  which python
+  495  python --vision
+  496  python --version
+  497  clear
+  498  deactivate
+  499  ls
+  500  rm -rf py_env/
+  501  ls
+  502  source py26_env/
+  503  ls
+  504  which python
+  505  python --version
+  506  pip install -r requiments 
+  507  pip install -r requirements.txt
+  508  pip list
+  509  ls
+  510  source py26_env/bin/activate
+  511  pip install -r requirements.txt
+  512  deactivate
+  513  ls
+  514  rm -rfpy26_env
+  515  rm -rfpy26_env/
+  516  ls
+  517  rm -rf py26_env
+  518  rm -rf requirements.txt
+  519  ls
+  520  clear
+  521  virtualenv -p /usr/bin/python3 py3_env
+  522  pip install numpy
+  523  pip install pytz
+  524  pip install psutil
+  525  pip freeze --local > requirements.txt
+  526  ls
+  527  mr -rf py3_env/
+  528  ls
+  529  virtualenv -p /usr/bin/python3.6 py3_env
+  530  py3_env
+  531  source py3_env/bin/activate
+  532  clear
+  533  pip install -r requiremnts.txt
+  534  pip install -r requirements.txt
+  535  ls
+  536  pip install -r requirements.txt
+  537  pip
+  538  pip list
+  539  clear
+  540  deactivate
+  541  pip install dash==1.8.0
+  542  cd ..
+  543  cd Desktop
+  544  mkdir
+  545  mkdir ntonto
+  546  cd ntonto
+  547  virtualenv python_env
+  548  source python/bin/activate
+  549  source python_env/bin/activate
+  550  which python
+  551  python --version
+  552  pip install dash==0.29.0
+  553  pip install dash-html-components==0.13.2
+  554  pip install dash-core-components==.0.38.0
+  555  pip install das-table==3.1.5
+  556  pip install dash-table==3.1.5
+  557  jupyter notebook
+  558  python untitled.py
+  559  python Untitled.py
+  560  pip freeze
+  561  pip list
+  562  jupyter notebook
+  563  ls
+  564  cd Dashboard-Candidate-Recommender/
+  565  ls
+  566  python app.py
+  567  import pandas as pd
+  568  pip install pandas
+  569  ls
+  570  cat requirements.txt
+  571  pip install -r requirements.txt 
+  572  python app.py
+  573  ls
+  574  python app.py
+  575  python untitled.py
+  576  cd ..
+  577  python Untitled.py
+  578  jupyter notebook
+  579  cd Desktop
+  580  ls
+  581  cd ntonto
+  582  ls
+  583  source python_env/bin/activate
+  584  jupyter notebook
+  585  source python_env/activate
+  586  source python_env/bin/activate
+  587  ls
+  588  pip list
+  589  jupyter notebook
+  590  python app.py
+  591  jupyter notebook
+  592  /home/recruit/Desktop/ntonto/Untitled.py
+  593  source python_env/bin/activate
+  594  ls
+  595  cd Desktop
+  596  cd ntonto
+  597  ls
+  598  source python_env/bin/activate
+  599  python Untitled.py
+  600  git init
+  601  git add .
+  602  git commit 
+  603  git add .
+  604  git commit 
+  605  git add .
+  606  git commit 
+  607  git status
+  608  git clone https://github.com/Umuzi-org/Dashboard-Deadlines.git
+  609  jupyter notebook
+  610  git aad .
+  611  git aad .add .
+  612  git add .
+  613  git commit
+  614  git status
+  615  git push
+  616  git init
+  617  git add .
+  618  git commit [A
+  619  git remote add origin https://github.com/ntokozomfene/oop-for-data-science.git
+  620  git push -u origin master
+  621  cd .
+  622  cd ..
+  623  anaconda
+  624  anaconda -v
+  625  anaconda -h
+  626  spider
+  627  jupyter notebook
+  628  mkdir umuzi-database
+  629  cd umuzi-database
+  630  ls
+  631  cd database
+  632  ls
+  633  ls -a
+  634  locate docker
+  635  docker ps
+  636  docker-compose up
+  637  sudo apt install docker
+  638  sudo apt install docker-compose
+  639  sudo docker-compose --version
+  640  cd Desktop/
+  641  ls
+  642  cd database/
+  643  ls
+  644  docker-compose up
+  645  docker ps
+  646  docker-compose up
+  647  docker --version
+  648  docker-compose up
+  649  docker ps
+  650  sudo docker-compose up
+  651  cd UMUZI-DATABASE
+  652  ls
+  653  cd umuzi-database
+  654  sudo docker-compose up
+  655  mkdir ntonto's work
+  656  ls
+  657  mkdir ntontos_work
+  658  cd ntontos_work/
+  659  mkdir database
+  660  code
+  661  git init 
+  662  git add .
+  663  sudo docker-compose up
+  664  jupyter notebook
+  665  git init 
+  666  git add .
+  667  git commit
+  668  git remote add origin https://github.com/ntokozomfene/SQL.git
+  669  git push -u origin master
+  670  pip install pyodbc
+  671  git add .
+  672  git commit
+  673  git status
+  674  git push
+  675  git add .
+  676  git commit
+  677  git status
+  678  git push
+  679  git add .
+  680  git commit
+  681  git add .
+  682  git commit
+  683  git push 
+  684  sudo docker-compose up
+  685  cd Documents/
+  686  ls
+  687  cd ntontos_work
+  688  ls
+  689  sudo docker-compose up
+  690  jupyter notebook
+  691  git add .
+  692  git commit -m 4th
+  693  git push
+  694  source .python_env/bin/activate
+  695  ls
+  696  source .python_env/bin/activate
+  697  git clone https://github.com/ntokozomfene/financial_services.git
+  698  clear
+  699  cd .
+  700  cd ..
+  701  cd Documents/
+  702  pip install virtualenv
+  703  ls
+  704  mkdir .venv
+  705  ls
+  706  mkdir dash_work
+  707  cd dash_work
+  708  virtualenv .venv
+  709  source .venv/bin/activate
+  710  pip install flask
+  711  pip install pusher
+  712  pip install dash
+  713  clear
+  714  code
+  715  cd Documents/
+  716  cd dash_work
+  717  source venv/bin/activate
+  718  ls
+  719  source .venv/bin/activate
+  720  pip install iexfinance
+  721  pip install dateutil
+  722  pip install get_historical_data
+  723  cd Documents/
+  724  cd Dash_work
+  725  cd dash_work
+  726  source .venv/bin/activate
+  727  ls
+  728  py app.py
+  729  python app.py
+  730  ls
+  731  source .venv/bin/activate
+  732  ls
+  733  python app.py
+  734  python appl.py
+  735  source .venv/bin/activate
+  736  sudo docker-compose up
+  737  ls
+  738  cd Desktop/
+  739  LS
+  740  ls
+  741  pw
+  742  pwd
+  743  mkdir workspace 
+  744  cd workspace
+  745  ls
+  746  touch README.MD
+  747  touch README.md
+  748  cp README.md CHANGELOG.md
+  749  ls workspace
+  750  ls
+  751  rmdir README.md
+  752  rm README.MD
+  753  ls
+  754  touch excercise.md
+  755  mv excercise.md /temp
+  756  mv excercise.md /temp/
+  757  ls
+  758  mv excercise.md /tmp/
+  759  rm /tmp/ excercise
+  760  rm /tmp/ excercise.md
+  761  ls /tmp/
+  762  ls /tmp/excercise.md
+  763  rm /tmp/excercise.md
+  764  ls /tmp/
+  765  ls
+  766  ls /tmp/
+  767  ls
+  768  touch umuzi.md
+  769  ls
+  770  touch recruits.md cohort.md
+  771  ls
+  772  pwd
+  773  nano umuzi.md
+  774  nano cohort.md
+  775  nano recruits.md
+  776  nano concat_3.sh
+  777  chmod 755 concat_3.sh 
+  778  ./concat_3.sh 
+  779  cat concat_3.sh 
+  780  ls
+  781  ./concat_3.sh 
+  782  nano concat_summary.sh
+  783  chmod 755 concat_summary.sh.sh 
+  784  chmod 755 concat_summary.sh 
+  785  chmod 755 concat_summary.sh
+  786  ./concat_summary.sh 
+  787  nano concat_summary.sh 
+  788  chmod 755 concat_summary.sh
+  789  ./concat_summary.sh 
+  790  cat summary.md 
+  791  ls
+  792  pwd
+  793  ls
+  794  cd /workstation
+  795  cd /workspace
+  796  pwd
+  797  ls
+  798  cd workspace
+  799  ls
+  800  cat cohort.md
+  801  cat umuzi.md
+  802  touch testing.md
+  803  echo 'This thing is working' > testing.md
+  804  cat testing.md
+  805  cat umuzi.md cohort.md recruits.md
+  806  touch umuzi.md cohort.md recruits.md
+  807  echo 'Umuzi, a community to be in...'> umuzi.md
+  808  echo 'Cohort 21, one of the best in the community.> cohort.md
+  809  pwd
+  810  echo 'Cohort 21, one of the best in the community.'.cohort21
+  811  echo 'Cohort 21, one of the best in the community.' cohort.md
+  812  echo 'Cohort 21, one of the best in the community.' >  cohort.md
+  813  echo 'Recruits of cohort 21 are one bunch of hardworkers.' > recruits.md
+  814  cat umuzi.md cohort.md recruits.md
+  815  touch concat.md
+  816  cat  umuzi.md cohort.md recruits.md > concat.md
+  817  cat concat.md
+  818  touch summary.md
+  819  cat umuzi.md cohort.md recruits.md > summary.md
+  820  cat summary.md
+  821  concat.md 'The End!!' > concat.md  
+  822  concat.md+ 'The End!!' > concat.md  
+  823  echo 'The End!!' >> concat.md  
+  824  cat concat.md
+  825  cat summary.md > concat.md
+  826  cat concat.md
+  827  cat 'The End' >> concat.md
+  828  cat > concat.md
+  829  locate *.pdf
+  830  find -type -name *.pdf
+  831  find -type f -name *.pdf
+  832  pwd
+  833  xd
+  834  cd
+  835  find ./ -file f -name *.pdf
+  836  locate updatedb
+  837  find ./ -file f -name *.pdf
+  838  find ./ -file f -name "*.pdf"
+  839  find ./ -type f -name "*.pdf"
+  840  find ./-type f -name"*.pdf" exec cp {} /home/recruit/Desktop/work/\
+  841  cat concat.md
+  842  cat umuzi.md
+  843  cat 'Umuzi testing' > concat.md
+  844  cat concat.md
+  845  echo 'Umuzi testing' > concat.md
+  846  cat concat
+  847  cat concat.md
+  848  echo 'The End!!!' >> concat.md
+  849  cat concat.md
+  850  locate umuzi.md
+  851  echo locate umuzi.md >> concat.md
+  852  cat concat.md
+  853  touch search_results.md
+  854  locate umuzi.md >> search_results.md
+  855  cat search_results.md
+  856  touch exxx.md /home/desktop/
+  857  touch /home/desktop/ exxxx.md
+  858  pwd
+  859  cd documents
+  860  cd /home/documents
+  861  touch home/Desktop/exxx.md
+  862  touch /Desktop/exxx.md
+  863  cd home/Destop
+  864  cd desktop
+  865  cd Documents
+  866  cd /home/Desktop
+  867  cd /Documents/
+  868  cd Documents
+  869  cd
+  870  cd Documents
+  871  touch pad.md
+  872  cd
+  873  touch Desktop/Fezile.md
+  874  touch Documents/pad.md
+  875  pwd
+  876  touch Desktop/FEzile
+  877  mkdir Desktop/Fezile_Files
+  878  cd Desktop
+  879  mkdir work
+  880  cp ../Documents pad.md Desktop/work/pad_copy.md
+  881  cp ../Documents pad.md pad_copy.md
+  882  cp ../Documents pad.md 
+  883  cp ../../Documents Desktop/ pad.md 
+  884  cp ../../Documents/pad.md Desktop/work/pad_copy.md
+  885  cp ../Documents/pad.md Desktop/work/pad_copy.md
+  886  rwd
+  887  pwd
+  888  cd
+  889  pwd
+  890  cp Documents/pad.md Desktop/pad_copy.md
+  891  cp Documents/pad.md Desktop/work/pad_copy.md
+  892  locate pad_copy.md
+  893  locate pad.md
+  894  cat umuzi.pad
+  895  sudo updatedb
+  896  locate pad.md
+  897  locate pad_copy.md
+  898  pwad
+  899  pwd
+  900  cd Desktop
+  901  sudo update
+  902  sudo updatedb
+  903  ls
+  904  find ./ -type f -name "*.pdf"
+  905  find ./-name "*.pdf" >> pathCopy.md
+  906  find ./-type f name "*.pdf" pathCopy.md
+  907  find ./-type f name "*.pdf"
+  908  locate updatedb
+  909  find ./name "*.pdf"
+  910  pwd
+  911  find ./-type f -name "*.pdf"
+  912  find ./ -type f -name *.pdf
+  913  find ./ -type f -name *.pdf >> pathCopy.md
+  914  find ./ -type f -name *.pdf >> Desktop/work/pathCopy.md
+  915  pwd
+  916  cd
+  917  cd /Desktop
+  918  cd home/recruit/Desktop/work
+  919  cd home/recruit/Desktop
+  920  cd /home/
+  921  find ./ -type f -name *.pdf
+  922  find .// -type f -name *.pdf
+  923  find ./ -type f -name *.pdf
+  924  find ./ -type f -name " *.pdf"
+  925  find ./ -type f -name "*.pdf"
+  926  find ./ -type f -name "*.pdf" >> home/recruit/Desktop/work
+  927  locate update
+  928  find ./ -type f -name " *.PDF "
+  929  find ./ -type f -name  *.PDF 
+  930  network-admin
+  931  cd Desktop/
+  932  git clone https://github.com/ToyaSims/ACN-syllabus.git
+  933  cd ACN-syllabus/
+  934  git checkout redux-thunks
+  935  git pull
+  936  code .
+  937  cd Desktop/
+  938  cd ACN-syllabus/
+  939  code .
+  940  git --version
+  941  git config --global user.name "latoya"
+  942  git config --global user.email simbinelatifa@gmail.com
+  943  git config --list
+  944  cd Desktop/
+  945  mkdir index.html
+  946  nano index.html/
+  947  cd ..
+  948  node --version
+  949  sudo apt install nodejs
+  950  node --version
+  951  npm -v
+  952  sudo apt install npm
+  953  apt-get update 
+  954  sudo apt-get update 
+  955  sudo apt install npm
+  956  git add .
+  957  git commit -m "fixed errors from linter"
+  958  git push
+  959  git add .
+  960  git commit -m "made changes requested" 
+  961  git push
+  962  cd Desktop/
+  963  cd ACN-syllabus/
+  964  git checkout redux-thunks
+  965  code .
+  966  source venv/bin/activate
+  967  python lint.py
+  968  hugo serve -b "http://localhost:1313/"
+  969  python lint.py
+  970  hugo serve -b "http://localhost:1313/"
+  971  git branch
+  972  git checkout develop
+  973  git checkout -b AddJavaTags
+  974  code .
+  975  git branch
+  976  git checkout develop
+  977  git  reset --hard bb245a4ca449c85c90329940baa4d64cc062977f
+  978  git push origin -f
+  979  git pull
+  980  git checkout addJavaTags
+  981  git branch
+  982  git add .
+  983  git commit -m "fixed punctuation and changed from complex to simple terms"
+  984  git push
+  985  git checkout addJavaTags
+  986  cd Desktop/
+  987  cd ACN-syllabus/
+  988  git checkout redux-thunks
+  989  code .
+  990  source venv/bin/activate
+  991  python lint.py
+  992  hugo serve -b "http://localhost:1313/"
+  993  cd Desktop/
+  994  git clone https://github.com/30-seconds/30-seconds-of-code.git
+  995  cd 30-seconds-of-code/
+  996  code .
+  997  cd ..
+  998  git clone https://github.com/ToyaSims/Tilde.git
+  999  cd Tilde/
+ 1000  git pull
+ 1001  git checkout contribution-mechanism
+ 1002  cd ..
+ 1003  cd ACN-syllabus/
+ 1004  git pull
+ 1005  git checkout contribution-mechanism
+ 1006  code .
+ 1007  cd ..
+ 1008  git clone https://github.com/jhipster/generator-jhipster.git
+ 1009  git checkout contribution-mechanism
+ 1010  git status
+ 1011  git add .
+ 1012  git status
+ 1013  git reset
+ 1014  git status
+ 1015  git checkout contribution-mechanism
+ 1016  git add .
+ 1017  cd Desktop/
+ 1018  cd portfolio/
+ 1019  code .
+ 1020  cd ..
+ 1021  cd home/
+ 1022  cd Desktop/
+ 1023  git clone https://github.com/ToyaSims/portfolio.git
+ 1024  cd portfolio/
+ 1025  code .
+ 1026  cd Desktop/
+ 1027  $ sudo add-apt-repository ppa:sylvain-pineau/kazam
+ 1028  sudo add-apt-repository ppa:sylvain-pineau/kazam
+ 1029  sudo apt-get update
+ 1030  sudo apt-get install kazam
+ 1031  sudo apt-get install python3-xlib python3-cairo
+ 1032  cd Desktop/
+ 1033  git clone https://github.com/ToyaSims/portfolio.git
+ 1034  cd portfolio/
+ 1035  code .
+ 1036  node maxSubArray.js 
+ 1037  cd Desktop/
+ 1038  git clone https://github.com/Umuzi-org/Manelisi-Madini-269-password-checker-javascript.git
+ 1039  cd Manelisi-Madini-269-password-checker-javascript/
+ 1040  code .
+ 1041  node fizzbuzz.js 
+ 1042  code .
+ 1043  node fizzbuzz.js 
+ 1044  node translateToBaille.js 
+ 1045  pip install jsbuilder
+ 1046  pip install --upgrade pip
+ 1047  pip install jsbuilder
+ 1048  pip install --upgrade pip
+ 1049  sudo pip install --upgrade pip
+ 1050  pip install Transcrypt
+ 1051  pip install --upgrade pip
+ 1052  node postOrderTraversal.js 
+ 1053  node validatePin.js 
+ 1054  node postOrderTraversal.js 
+ 1055  node validatePin.js 
+ 1056  node sortString.js 
+ 1057  node asci.js 
+ 1058  node fizzbuzz.js 
+ 1059  node run-length.js 
+ 1060  node secondGreatLow.js 
+ 1061  node nonRepeated.js 
+ 1062  node codeland.js 
+ 1063  node secondGreatLow.js 
+ 1064  node codeland.js 
+ 1065  node BINARY.JS 
+ 1066  node camelCase.js 
+ 1067  node run-length.js 
+ 1068  node translateToBaille.js 
+ 1069  node fizzbuzz.js 
+ 1070  node calculator.js 
+ 1071  node formatAsCustom.js 
+ 1072  node translateToBaille.js 
+ 1073  node calculator.js 
+ 1074  cd Desktop/
+ 1075  git clone https://github.com/Umuzi-org/Nomanna-Mavata-184-assertive-programming-kata-javascript.git
+ 1076  cd Nomanna-Mavata-184-assertive-programming-kata-javascript/
+ 1077  code .
+ 1078  node main.js
+ 1079  clear
+ 1080  cd src/
+ 1081  node main.js 
+ 1082  cd Desktop/
+ 1083  git clone https://github.com/Umuzi-org/Shirley-Ndou-223-person-typescript.git
+ 1084  cd Shirley-Ndou-223-person-typescript/
+ 1085  code .
+ 1086  node Person.
+ 1087  ls
+ 1088  node Person.js
+ 1089  cd Desktop/
+ 1090  cd Shirley-Ndou-223-person-typescript/
+ 1091  code .
+ 1092  cd Desktop/
+ 1093  ls
+ 1094  cd Desktop/
+ 1095  git clone --recursive https://github.com/ToyaSims/ACN-syllabus.git
+ 1096  cd Desktop/
+ 1097  git clone https://github.com/Umuzi-org/Tilde.git
+ 1098  cd Tilde/
+ 1099  code .
+ 1100  cd ..
+ 1101  ls
+ 1102  git clone https://github.com/Umuzi-org/Tilde.git
+ 1103  code .
+ 1104  cd Desktop/
+ 1105  git clone https://github.com/ToyaSims/Tilde.git
+ 1106  cd Tilde/
+ 1107  code .
+ 1108  cd Desktop/
+ 1109  cd coderbyte/
+ 1110  git clone https://github.com/Hardanish-Singh/CoderByte-Challenges-Solutions.git
+ 1111  git clone https://github.com/rohan-paul/coderbyte-solution-js.git
+ 1112  git clone https://github.com/Samleo8/CoderByte.git
+ 1113  git clone https://github.com/mohan589/technical-interview-questions.git
+ 1114  git clone https://github.com/Julien-Broyard/javascript-coderbyte.git
+ 1115  git clone https://github.com/randyf99/coderbyte-solutions.git
+ 1116  cd ..
+ 1117  git clone https://github.com/Umuzi-org/Shirley-Ndou-269-password-checker-typescript.git
+ 1118  cd Shirley-Ndou-269-password-checker-typescript/
+ 1119  code .
+ 1120  ls
+ 1121  node abCheck,js
+ 1122  node isFibbo
+ 1123  cd Desktop/
+ 1124  git clone https://github.com/Umuzi-org/sifiso-mhlongo-223-person-typescript.git
+ 1125  cd Desktop/
+ 1126  git clone https://github.com/Umuzi-org/Latifa-Simbini-429-bootcamp-writing-assignment-markdown.git
+ 1127  git branch
+ 1128  cd Desktop/
+ 1129  cd Latifa-Simbini-429-bootcamp-writing-assignment-markdown/
+ 1130  git branch
+ 1131  git checkout myHistory
+ 1132  git checkout myhistory
+ 1133  git checkout myCommitments
+ 1134  git checkout myCommitment
+ 1135  git checkout myCurrentCommitment
+ 1136  git add .
+ 1137  git status
+ 1138  git reset
+ 1139  git add .
+ 1140  git status
+ 1141  git commit -m "initial commit"
+ 1142  git push
+ 1143  git checkout myRoutine
+ 1144  git add .
+ 1145  git status
+ 1146  git commit -m "initial commit"
+ 1147  git push 
+ 1148  git checkout releventExperience
+ 1149  git add .
+ 1150  git commit -m "initial commit"
+ 1151  git status
+ 1152  git add .
+ 1153  git status
+ 1154  git commit -m "initial commit"
+ 1155  git push 
+ 1156  git checkout myFreeTime
+ 1157  git add .
+ 1158  git status
+ 1159  git commit -m "initial commit"
+ 1160  git push 
+ 1161  git checkout whatMakesMeThinkIwillSucceed
+ 1162  git checkout blockers
+ 1163  git add .
+ 1164  git status
+ 1165  git add .
+ 1166  git status
+ 1167  git commit -m "initial commit"
+ 1168  git push 
+ 1169  git checkout whatMakesMeThinkIwillSucceed
+ 1170  git branch
+ 1171  git add  .
+ 1172  git status
+ 1173  git commit -m "initial commit"
+ 1174  git push 
+ 1175  git checkout whyIwantThisCareer
+ 1176  git add .
+ 1177  git status
+ 1178  git commit -m "initial commit"
+ 1179  git branch
+ 1180  git checkout whyIwantThisCareer
+ 1181  git commit -m "initial commit"
+ 1182  git push
+ 1183  git checkout myHistory
+ 1184  git checkout myhistory
+ 1185  git add .
+ 1186  git status
+ 1187  git commit -m "initial commit"
+ 1188  git push
+ 1189  git checkout futureGoodPart
+ 1190  cd Desktop/
+ 1191  git clone https://github.com/Umuzi-org/Latifa-Simbini-429-bootcamp-writing-assignment-markdown.git
+ 1192  cd Latifa-Simbini-429-bootcamp-writing-assignment-markdown/
+ 1193  code .
+ 1194  cd Desktop/
+ 1195  cd Latifa-Simbini-429-bootcamp-writing-assignment-markdown/
+ 1196  code .
+ 1197  cd ..
+ 1198  mkdir git-basic-exercises
+ 1199  cd git-basic-exercises/
+ 1200  ls -a
+ 1201  git init
+ 1202  ls -a
+ 1203  git status
+ 1204  touch README.md
+ 1205  ls -a
+ 1206  git status
+ 1207  git log
+ 1208  git add .
+ 1209  git status
+ 1210  git reset
+ 1211  git status
+ 1212  git add .
+ 1213  git commit -m "initial commit"
+ 1214  git log
+ 1215  nano README.md.
+ 1216  cat README.md
+ 1217  git status
+ 1218  git commit -m "second commit"
+ 1219  git add .
+ 1220  git commit -m "second commit"
+ 1221  nano README.md
+ 1222  git status
+ 1223  git add .
+ 1224  git commit -m "third commit"
+ 1225  git log
+ 1226  git checkout b9117e463b032214602b8ab37b519c401bfa1f80
+ 1227  cat README.md
+ 1228  git checkout main
+ 1229  cat README.md
+ 1230  git branch
+ 1231  git checkout master
+ 1232  cat README.md
+ 1233  git checkout -b milkshake-flavours
+ 1234  nano milkshakes.md
+ 1235  git add .
+ 1236  git status
+ 1237  git commit -m "added initial flavours"
+ 1238  git checkout master
+ 1239  git checkout -b history
+ 1240  git log
+ 1241  git branch
+ 1242  history > history.txt
+ 1243  git commit -m "added history"
+ 1244  git add .
+ 1245  git commit -m "added history"
+ 1246  git log
+ 1247  git checkout milkshake
+ 1248  git branch
+ 1249  git checkout milkshake-flavours
+ 1250  git log
+ 1251  nano README.md
+ 1252  git add .
+ 1253  git commit -m "random readme changes"
+ 1254  git checkout history
+ 1255  cat README.md
+ 1256  rm README.md
+ 1257  echo "booya" > README.md
+ 1258  git add .
+ 1259  git commit -m "rewrote readme"
+ 1260  git checkout master
+ 1261  ls
+ 1262  git log
+ 1263  git checkout milkshake-flavours
+ 1264  ls
+ 1265  git log
+ 1266  git checkout history
+ 1267  git log
+ 1268  git checkout main
+ 1269  git checkout master
+ 1270  git merge milkshake-flavours
+ 1271  ls
+ 1272  git log
+ 1273  git checkout history
+ 1274  git log
+ 1275  git checkout milkshake-flavours
+ 1276  git log
+ 1277  git checkout history
+ 1278  git merge master
+ 1279  code .
+ 1280  git merge master
+ 1281  git remote add origin https://github.com/ToyaSims/git-basic-exercises.git
+ 1282  git branch -M main
+ 1283  git push -u origin main
+ 1284  git cheeckout history
+ 1285  git checkout history
+ 1286  git checkout milkshake-flavours
+ 1287  git push
+ 1288  git push --set-upstream origin milkshake-flavours
+ 1289  git branch
+ 1290  git checkout master
+ 1291  git push
+ 1292  cd ../
+ 1293  git clone https://github.com/Umuzi-org/a-repo-to-clone
+ 1294  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1295  cd a-repo-to-clone
+ 1296  git branch
+ 1297  git log
+ 1298  git branch -a
+ 1299  git checkout project/git-basic-exercises
+ 1300  git checkout -b project/git-basic-exercises
+ 1301  git remote -v
+ 1302  cd Desktop/
+ 1303  mkdir git-basic-exercises
+ 1304  cd git-basic-exercises/
+ 1305  git init
+ 1306  touch README.md.
+ 1307  git add .
+ 1308  git status
+ 1309  git commit -m "initial commit"
+ 1310  nano README.md
+ 1311  cat README.md
+ 1312  git add .
+ 1313  git commit -m "second commit"
+ 1314  nano README.md
+ 1315  git add .
+ 1316  git commit -m "third commit"
+ 1317  git log
+ 1318  q
+ 1319  git checkout a4fa76ce5c50b2bdb08359b49179a2abbcc24c15
+ 1320  cat README.md
+ 1321  git checkout main
+ 1322  git branch
+ 1323  git checkout -b main
+ 1324  cat README.md
+ 1325  git branch
+ 1326  cd Desktop/
+ 1327  mkdir git-basic-exercises
+ 1328  cd git-basic-exercises/
+ 1329  git init
+ 1330  touch README.md
+ 1331  git add .
+ 1332  git commit -m "initial commit"
+ 1333  nano README.md
+ 1334  cat README.md
+ 1335  git add .
+ 1336  git commit -m "second commit"
+ 1337  nano README.md
+ 1338  git add .
+ 1339  git commit -m "third commit"
+ 1340  git log
+ 1341  q
+ 1342  git checkout 5fcac7d694a49d7d8442069027ab8107b181ba81
+ 1343  cat README.md
+ 1344  git checkout main
+ 1345  git checkout master
+ 1346  cd Desktop/
+ 1347  cd git-basic-exercises/
+ 1348  cat README.md
+ 1349  git checkout -b milkshake-flavours
+ 1350  git add .
+ 1351  git commit -m "added initial flavours"
+ 1352  git checkout master
+ 1353  git checkout -b history
+ 1354  history > history.txt
+ 1355  git status
+ 1356  git add .
+ 1357  git commit -m "added history"
+ 1358  git branch
+ 1359  git checkout  milkshake-flavours
+ 1360  nano README.md
+ 1361  cat README.md
+ 1362  git add .
+ 1363  git commit -m "random readme changes"
+ 1364  git checkout  history
+ 1365  cat README.md
+ 1366  rm README.md
+ 1367  echo "booya" > README.md
+ 1368  cat README.md
+ 1369  git add .
+ 1370  git commit -m "rewrote readme"
+ 1371  echo "booya" > README.md
+ 1372  ls
+ 1373  git status
+ 1374  cat README.md
+ 1375  git log
+ 1376  git branch
+ 1377  git checkout  milkshake-flavours
+ 1378  git log
+ 1379  git checkout  history
+ 1380  rm README.md
+ 1381  echo "booya" > README.md
+ 1382  git add .
+ 1383  git commit -m "rewrote readme"
+ 1384  git checkout master
+ 1385  ls
+ 1386  git log
+ 1387  git checkout milkshake-flavours
+ 1388  git log
+ 1389  ls
+ 1390  cd Desktop/
+ 1391  mkdir git-basic-exercises
+ 1392  cd git-basic-exercises/
+ 1393  git init
+ 1394  touch README.md
+ 1395  git add .
+ 1396  git commit -m "initial commit"
+ 1397  nano README.md
+ 1398  git add .
+ 1399  git commit -m " commit"
+ 1400  nano README.md
+ 1401  git add .
+ 1402  git commit -m " second commit"
+ 1403  nano README.md
+ 1404  cd Desktop/
+ 1405  mkdir git-basic-exercises
+ 1406  cd git-basic-exercises/
+ 1407  git init
+ 1408  git branch
+ 1409  touch README.md
+ 1410  git add .
+ 1411  git commit -m "initial commit"
+ 1412  nano README.md
+ 1413  git add .
+ 1414  git commit -m " second commit"
+ 1415  nano README.md
+ 1416  git add .
+ 1417  git commit -m " third commit"
+ 1418  git log
+ 1419  git checkout 7e7375025fef2c6861e7288178328593a32a4712
+ 1420  git branch
+ 1421  cat README.md
+ 1422  git checkout master
+ 1423  cat README.md
+ 1424  git checkout -b milkshake-flavours
+ 1425  nano milkshakes.md
+ 1426  git add .
+ 1427  git commit -m "added initial flavours"
+ 1428  git checkout master
+ 1429  git checkout -b history
+ 1430  git log
+ 1431  git branch
+ 1432  history > history.txt
